@@ -1,0 +1,4 @@
+name: MiPrimerPlugin
+version: 1.0.0
+main: pluginse.Main
+api: 1.0.0
